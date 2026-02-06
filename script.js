@@ -62,7 +62,7 @@ noBtn.addEventListener("mouseover", () => {
 yesBtn.addEventListener("click", () => {
     title.textContent = "shukriya!! madam ji 😊";
 
-    catImg.src = "5.jpg";
+    catImg.src = "6.jpeg";
 
     document.querySelector(".letter-window").classList.add("final");
 
